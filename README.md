@@ -1,5 +1,5 @@
 
-```markdown
+
 # AI Image Generator
 
 ## Overview
@@ -140,4 +140,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 **GitHub**: [ziishanahmad](https://github.com/ziishanahmad)
 
 **LinkedIn**: [Zeeshan Ahmad](https://www.linkedin.com/in/ziishanahmad/)
-```
